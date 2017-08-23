@@ -3,7 +3,7 @@
 
 使用NavigationController驱动
 很简单很单纯的小文件，直接下载导入即可
-###使用方法：
+### 使用方法：
 ```swift
 interactiveTransition = InteractivityTransition.init(gestureType: .pan, controlAnimationType: .Slider, viewController: self)
 //如果你需要右滑push新controller的话
